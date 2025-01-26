@@ -55,15 +55,15 @@ For Software:
 # Screenshots (Add at least 3)
 
 [this screenshot shows the daily planner of the student.](dp.png)
-lg.png -[this screenshot shows the login page.]
-sp.png- this screenshot shows the studentPortal
-freze.png- this screenshot shows when the students studies continuously for long hours it will freeze and ask them to take a break.
-pomo.png- this screenshot shows the pomodoro technique
+ [this screenshot shows the login page.](lg.png)
+ [this screenshot shows the studentPortal](sp.png)
+ [this screenshot shows when the students studies continuously for long hours it will freeze and ask them to take a break.](freze.png)
+[this screenshot shows the pomodoro technique](pomo.png)
 
 ### Project Demo
 # Video
 [Add your demo video link here]
-Explain what the video demonstrates
+[the entire website running video](https://drive.google.com/drive/folders/1tp8HjG91X5lxQ7nnprx2hIb0w5NqHRbY?usp=drive_link)
 
 
 ## Team Contributions

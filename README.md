@@ -55,7 +55,7 @@ For Software:
 # Screenshots (Add at least 3)
 
 [this screenshot shows the daily planner of the student.](dp.png)
-lg.png -this screenshot shows the login page.
+lg.png -[this screenshot shows the login page.]
 sp.png- this screenshot shows the studentPortal
 freze.png- this screenshot shows when the students studies continuously for long hours it will freeze and ask them to take a break.
 pomo.png- this screenshot shows the pomodoro technique

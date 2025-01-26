@@ -47,11 +47,7 @@ For Software:
 
 ### Implementation
 
-For Software:
-# Installation
-
-# Run
-[commands]
+We use Net Beans IDE 8.2
 
 ### Project Documentation
 For Software:

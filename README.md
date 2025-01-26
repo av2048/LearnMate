@@ -53,29 +53,21 @@ We use Net Beans IDE 8.2
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-Add caption explaining what this shows
 
-![Screenshot2](Add screenshot 2 here with proper name)
-Add caption explaining what this shows
-
-![Screenshot3](Add screenshot 3 here with proper name)
-Add caption explaining what this shows
-
-
+dp.png - this screenshot shows the daily planner of the student.
+lg.png -this screenshot shows the login page.
+sp.png- this screenshot shows the studentPortal
+freze.png- this screenshot shows when the students studies continuously for long hours it will freeze and ask them to take a break.
+pomo.png- this screenshot shows the pomodoro technique
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 Explain what the video demonstrates
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- Aarathi Ajayakumar: 
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- we (Aarathi Ajayakumar,gauri nandana b,nithya joy) has worked as a team involving in every part of our website
 
 ---
 Made with ❤ at TinkerHub
